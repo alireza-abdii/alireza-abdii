@@ -1,70 +1,52 @@
 <div align="center">
 
-<!-- OPTIONAL: Replace the URL below with a link to a glassmorphism banner you create in Figma -->
-<!-- <img src="URL_TO_YOUR_GLASSMORPHISM_BANNER_IMAGE" width="100%" alt="Alireza Abdi Banner"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E1B4B&height=200&section=header&text=ALIREZA%20ABDI&fontSize=40&fontColor=D4AF37&fontAlignY=42&animation=fadeIn&desc=Frontend%20Developer&descAlignY=62&descSize=18&descColor=E5E7EB" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=900&color=D4AF37&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Turning+designs+into+seamless+interfaces;Crafting+scalable+web+applications;Optimizing+performance+for+production;Delivering+premium+digital+experiences" />
 
-# ✦ Alireza Abdi
-### Frontend Developer & AI Enthusiast
+<br>
+
+### ✦ About Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alireza-abdi13">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  I am a creative, detail-oriented developer focused on engineering responsive, scalable, and user-centric web applications.<br>
+  With a Bachelor's in Software Engineering, I bridge the gap between complex UI/UX designs and clean, maintainable code.<br>
+  Driven by continuous learning, I thrive on delivering premium digital experiences using modern frameworks like React and Next.js.
+</p>
+
+### ✦ Tech Stack
+
+<sub><b>FRONT-END</b></sub><br>
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux,mui,vite,figma,npm,webpack&theme=dark" />
+<br><br>
+
+<sub><b>BACK-END & DATA</b></sub><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" />
+<br><br>
+
+<sub><b>TOOLING & TESTING</b></sub><br>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,jest,vitest&theme=dark" />
+<br><br>
+
+### ✦ Let's Connect
+
+<p align="center">
   <a href="mailto:alirezaabdichari@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email" />
   </a>
-  <a href="https://github.com/alireza-abdii">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/alireza-abdi13">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/_alirezaabdi_?s=11">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=D4AF37" alt="X (Twitter)" />
+  </a>
+  <a href="https://t.me/alirezaabdiii">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=D4AF37" alt="Telegram" />
+  </a>
+  <a href="https://www.instagram.com/alireza.abdi._">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D4AF37" alt="Instagram" />
   </a>
 </p>
 
-<br/>
-
-> *"Building responsive, scalable, and user-focused web applications."*
-
 </div>
 
-<br/>
-
-### ✧ Profile Summary
-- 🎓 **Education:** Pursuing a Master's in Artificial Intelligence, alongside a Bachelor's in Software Engineering[cite: 1].
-- 💻 **Expertise:** Developing scalable, responsive web applications using modern JavaScript frameworks like **React** and **Next.js**[cite: 1].
-- 🎨 **Focus:** Translating UI/UX designs into clean, maintainable code while optimizing performance for production environments[cite: 1].
-- ⚙️ **Full-Stack Capable:** Familiar with backend development utilizing the **MERN stack** (MongoDB, Express.js, React, Node.js)[cite: 1].
-
-<br/>
-
-### ✧ Technical Arsenal
-
-<details>
-  <summary><b>🌐 Frontend Technologies</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🛠 Backend & Testing</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  </p>
-</details>
-
-<br/>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alireza-abdii&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:0F172A&height=120&section=footer" width="100%"/>
