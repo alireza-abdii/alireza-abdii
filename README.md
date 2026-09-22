@@ -7,7 +7,7 @@
 ### Frontend Developer & AI Enthusiast
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alireza-abdi">
+  <a href="https://www.linkedin.com/in/alireza-abdi13">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alirezaabdichari@gmail.com">
